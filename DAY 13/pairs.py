@@ -5,3 +5,5 @@ for i in range(len(nums)):
             if nums[i]==nums[j]   and i<j: 
                 count=count+1
 print(count)
+
+#output:4
